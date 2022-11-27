@@ -1,0 +1,9 @@
+#ifndef BF1B4154_3B49_453D_AFA9_E4D1A75FF511
+#define BF1B4154_3B49_453D_AFA9_E4D1A75FF511
+
+class Event {
+   public:
+    Event() = default;
+};
+
+#endif /* BF1B4154_3B49_453D_AFA9_E4D1A75FF511 */
