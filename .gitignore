@@ -1,3 +1,5 @@
 .vscode
 Makefile
 .DS_Store
+build/
+imgui.ini
